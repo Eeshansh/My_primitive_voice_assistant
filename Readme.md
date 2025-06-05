@@ -1,0 +1,107 @@
+🗣️ Python Voice Assistant
+A Python-based general-purpose voice assistant capable of performing a range of tasks like answering questions, setting alarms, surfing the web, playing music, and handling PC-based voice commands — all through simple voice interaction.
+
+🚀 Features
+✅ Voice command recognition (using speech_recognition)
+
+✅ Text-to-speech response (using pyttsx3)
+
+✅ Web search and browsing
+
+✅ System controls: open apps, shutdown, restart, etc.
+
+✅ Alarm and reminder setting
+
+✅ Music playback
+
+✅ Weather updates, jokes, and more
+
+🛠️ Tech Stack
+Python 3.x
+
+Libraries Used:
+
+speech_recognition
+
+pyttsx3
+
+webbrowser
+
+datetime
+
+os
+
+wikipedia
+
+requests (for APIs like weather)
+
+playsound (for alarms/music)
+
+📦 Installation
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/voice-assistant.git
+cd voice-assistant
+Install the required packages:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the assistant:
+
+bash
+Copy
+Edit
+python main.py
+🎤 How It Works
+The assistant listens through your microphone.
+
+It converts the speech into text using Google’s Speech Recognition API.
+
+Based on the command, it takes appropriate action or speaks the response using TTS (Text-to-Speech).
+
+🧠 Use Cases
+Ask general questions
+
+Search Wikipedia
+
+Get the weather
+
+Open websites or local applications
+
+Play songs from a folder
+
+Set timers or alarms
+
+Get daily news or jokes
+
+📌 Sample Commands
+“What’s the weather today?”
+
+“Open YouTube”
+
+“Play music”
+
+“Search for Python tutorials”
+
+“Set an alarm for 7 AM”
+
+📁 Project Structure
+css
+Copy
+Edit
+voice-assistant/
+├── main.py
+├── requirements.txt
+├── alarm/
+├── modules/
+│   ├── web.py
+│   ├── system.py
+│   └── utils.py
+└── README.md
+🙋 About the Developer
+Developed by Eeshansh, a tech enthusiast exploring AI, automation, and voice interfaces. Currently enhancing this assistant with DSA concepts and advanced features.
