@@ -1,0 +1,47 @@
+{
+    "intents":[
+        {
+            "tag":"open",
+            "patterns":["start","open","launch","show"
+            ],
+            "responses":["Sure!","Give me a moment please","alright","There you go"
+            ]
+        },   {
+            "tag":"close",
+            "patterns":["shut","close","put it away","remove","Don't show","don't want to see"
+            ],
+            "responses":["Sure!","alright","okay","Done!"
+            ]
+        },   {
+            "tag":"whatsapp",
+            "patterns":["open whatsapp","message on whatsapp","send message"
+            ],
+            "responses":["Sure!","sending your message","alright","message sent"
+            ]
+        },  {
+            "tag":"instagram",
+            "patterns":["open instagram","message on instagram","send message"
+            ],
+            "responses":["Sure!","sending your message","alright","message sent"
+            ]
+        },  {
+            "tag":"telegram",
+            "patterns":["open telegram","message on telegram","send message"
+            ],
+            "responses":["Sure!","sending your message","alright","message sent"
+            ]
+        },  {
+            "tag":"facebook",
+            "patterns":["open facebook","message on facebook","send message"
+            ],
+            "responses":["Sure!","sending your message","alright","message sent"
+            ]
+        }, {
+            "tag":"twitter",
+            "patterns":["open twitter","message on twitter","send message"
+            ],
+            "responses":["Sure!","sending your message","alright","message sent"
+            ]
+        }              
+    ] 
+}

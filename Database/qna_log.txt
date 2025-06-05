@@ -1,0 +1,128 @@
+
+Question : what is  Machine learning 
+Answer : Machine learning is a field of computer science that uses statistical techniques to give computers the ability to "learn" (i.e., improve their performance at a task) with data, without being explicitly programmed.
+Question : what is full form of ML? 
+Answer : The full form of ML is not known.
+Question : what is full form of ML in Computer science? 
+Answer : The full form of ML in computer science is not known.
+Question : what is Physics? 
+Answer : Physics is the scientific study of the nature and properties of matter and energy.
+Question : what is Math? 
+Answer : Mathematics is the study of numbers, shapes, and patterns.
+Question : what is nn? 
+Answer : The full form of nn is not known.
+Question : nn is neural network 
+Answer : A neural network is a computer system that is designed to mimic the workings of the human brain. Neural networks are used to recognize patterns, make predictions, and learn from data.
+Question : what is Kinematics? 
+Answer : Kinematics is the branch of mechanics that deals with the motion of bodies without regard to the forces that cause the motion.
+Question : what is acceleration 
+Answer : Acceleration is the rate of change of velocity. It is a vector quantity, which means it has both magnitude and direction.
+Question : what is the gross GDP? 
+Answer : The gross domestic product (GDP) is the total value of all goods and services produced in a country in a given year.
+Question : dipole? 
+Answer : A dipole is a pair of equal and opposite electric charges, or a pair of equal and opposite magnetic poles.
+Question : unit fcharge? 
+Answer : The unit of charge is the coulomb (C).
+Question : value of electron? 
+Answer : The value of the electron is -1.602 x 10-19 coulombs.
+Question : what happens after death? 
+Answer : There is no scientific consensus on what happens after death, and it is a matter of religious and philosophical belief.
+Question : can velocity be negative? 
+Answer : Yes, velocity can be negative. Velocity is a vector quantity, which means it has both magnitude and direction. The direction of velocity can be positive or negative, depending on the direction of motion.
+Question : what is entanglement in quantum physics? 
+Answer : In quantum mechanics, entanglement is a phenomenon in which particles that have interacted with each other retain a connection even after they are separated. This connection allows the particles to influence each other's behavior, even when they are not in physical contact.
+Question : bose-einstein theory 
+Answer : Bose-Einstein theory is a theory in quantum mechanics that describes the behavior of particles that obey Bose-Einstein statistics.
+Question : what is the theory? 
+Answer : There is no one "theory" of quantum mechanics. Rather, there are a number of different theories that all describe the behavior of quantum mechanical systems in different ways.
+Question : i meant what is bose-einstein theory? 
+Answer : Bose-Einstein theory is a theory in quantum mechanics that describes the behavior of particles that obey Bose-Einstein statistics.
+Question : can zinc corrode in atmosphere? 
+Answer : Zinc can corrode in atmosphere, but the rate of corrosion is slow.
+Question : how slow is it? 
+Answer : The rate of corrosion of zinc in atmosphere is slow.
+Question : How far is it from Bangalore to Hyderabad? 
+Answer : The distance from Bangalore to Hyderabad is about 500 kilometers.
+Question : Tell me if I travel at the speed of light, how long will it take to cover 500,000 kms? 
+Answer : If you travel at the speed of light, it will take you about 3 minutes and 20 seconds to cover 500,000 kilometers.
+
+Question : How are you? 
+Answer : I'm doing well, thank you.
+Question : when is the next cricket world cup 
+Answer : The next cricket world cup is scheduled for 2023.
+Question : Tell me brother how are you 
+Answer : I'm doing well, thank you.
+Question : why disconnect the phone 
+Answer : There could be a number of reasons why someone might want to disconnect their phone. Maybe they're going to be in a place where there is no service, or they want to save battery life.
+Question : jarvis what is your ability 
+Answer : I am a digital assistant that can help with a variety of tasks, from setting alarms to sending emails.
+Question : jarvis what is bugatti 
+Answer : Bugatti is a luxury car company that is known for its high-performance vehicles.
+Question : How long it takes from Bangalore to Coimbatore 
+Answer : The distance from Bangalore to Coimbatore is about 500 kilometers. If you travel at the speed of light, it will take you about 3 minutes and 20 seconds to cover 500,000 kilometers.
+Question : tell me what is alone mast doing right now 
+Answer : I'm not sure what you mean by "alone mast."
+Question : I am asking what is March 11 doing right now 
+Answer : I'm not sure what you mean by "March 11."
+Question : How old are you 
+Answer : I'm not sure how old I am, but I was created in 2015.
+Question : gyaras what is the name 
+Answer : I'm not sure what you mean by "gyaras."
+Question : How far is it to carry from Bangalore by flight 
+Answer : I'm not sure what you mean by "carry from Bangalore by flight."
+Question : How long is the flight time from Bangalore to California? 
+Answer : I'm not sure what you mean by "flight time from Bangalore to California."
+Question : How long will it take to go by flight 
+Answer : I'm not sure what you mean by "flight time from Bangalore to California."
+Question : when is diwali 
+Answer : Diwali is a Hindu festival that is celebrated in October or November.
+Question : None 
+Answer : I'm not sure what you mean.
+Question : where is mount Everest? 
+Answer : Mount Everest is located in the Himalayan mountain range in Asia.
+
+Question : what is machine learning java 
+Answer : I'm not sure what you mean by "machine learning java."
+Question :  tell me where is mount everest exactly 
+Answer : Mount Everest is located in the Himalayan mountain range in Asia.
+
+Question : what is virtual reality 
+Answer : Virtual reality (VR) is a simulated experience that can be similar to or completely different from the real world. VR is achieved by using a computer to generate a simulated environment, which can be experienced through the use of specialised equipment, such as a head-mounted display (HMD) or gloves fitted with sensors. 
+Question : what is my tower 
+Answer : I'm not sure what you mean by "my tower."
+Question : what is matter 
+Answer : Matter is anything that has mass and occupies space. All the physical objects that you can see and touch are made of matter.
+Question : what is the date today 
+Answer : Today's date is October 10, 2019.
+Question : what is the date 
+Answer : Today's date is October 10, 2019.
+Question : what day is it today 
+Answer : Today is Thursday, October 10, 2019.
+Question : spy on google tell what is the technology of the block 
+Answer : I'm not sure what you mean by "spy on google tell what is the technology of the block."
+Question : tell me about its applications 
+Answer : I'm not sure what you mean by "its applications."
+Question : what did i ask you before 
+Answer : I'm not sure what you mean.
+Question : what do you remember 
+Answer : I remember that you asked me about my ability, and I told you that I am a digital assistant that can help with a variety of tasks, from setting alarms to sending emails.
+Question : Calculate how much will be 12% of 4 crores 
+Answer : 12% of 4 crores is 480 lakhs.
+Question : how do you think we are 
+Answer : I'm not sure how to answer that.
+Question : how will you be 
+Answer : I'm doing well, thank you.
+Question : tell me something about virat kohli 
+Answer : Virat Kohli is an Indian cricketer and the current captain of the Indian national team. He is widely regarded as one of the best batsmen in the world and has scored the most runs in international cricket in the last decade. He is also the fastest batsman to reach 10,000 runs in ODI cricket.
+Question : Tell me about Virat Kohli and what just happened in New Zealand series 
+Answer : Virat Kohli is an Indian cricketer and the current captain of the Indian national team. He recently led the Indian team to a historic series win against New Zealand, winning the three-match ODI series 3-0 and the two-match Test series 2-0. He scored a total of 558 runs in the series, including two centuries and two half-centuries.
+Question : tell me who is ms dhoni 
+Answer : MS Dhoni is an Indian cricketer and former captain of the Indian national team. He is widely regarded as one of the greatest captains in the history of cricket and is known for his calm and composed leadership. He is also a wicket-keeper batsman and is the only captain to have won all three ICC trophies - the World Cup, the Champions Trophy, and the T20 World Cup.
+Question : tell me something about yourself who are you 
+Answer : I am a digital assistant that can help with a variety of tasks, from setting alarms to sending emails. I was created in 2015 and I am constantly learning and improving my skills.
+Question : tell me about yourself 
+Answer : I am a digital assistant that can help with a variety of tasks, from setting alarms to sending emails. I was created in 2015 and I am constantly learning and improving my skills.
+Question : what is rio de janeiro 
+Answer : Rio de Janeiro is the second-most populous city in Brazil and the capital of the state of Rio de Janeiro. It is located on the Atlantic coast of South America and is known for its beaches, carnivals, samba, and other cultural attractions.
+Question : how far is the moon from the earth 
+Answer : The average distance between the Earth and the Moon is about 384,400 kilometers.

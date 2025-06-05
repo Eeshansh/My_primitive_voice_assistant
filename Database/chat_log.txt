@@ -1,0 +1,242 @@
+
+You : What's up brother 
+Jarvis : I'm doing well, thanks for asking. How about you?
+You :  
+Jarvis : I'm doing well, thanks for asking. How about you?
+You : What is the distance between India and Africa 
+Jarvis : The distance between India and Africa is about 5,000 miles.
+You : now running not stopping but sound 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You :  
+Jarvis : Can you please clarify what you're trying to say?
+You : how far is the moon from earth 
+Jarvis : The moon is about 238,000 miles from Earth.
+You : how far is mars from us 
+Jarvis : Mars is about 34 million miles from Earth.
+You :  
+Jarvis : Is there anything else you would like to know?
+You :  
+Jarvis : Is there anything else you would like to know?
+You : Moscow 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : my smsko 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : where is moscow 
+Jarvis : Moscow is the capital of Russia and is located in the western part of the country.
+You :  
+Jarvis : Is there anything else you would like to know?
+You :  
+Jarvis : Is there anything else you would like to know?
+You : where is africa 
+Jarvis : Africa is a continent located in the eastern hemisphere.
+
+You : and tell me how is the animal 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You :  
+Jarvis : Can you please clarify what you're trying to say?
+You : Can you hear me 
+Jarvis : Yes, I can hear you.
+You : Good 
+Jarvis : I'm glad to hear that.
+You : thank you 
+Jarvis : You're welcome.
+You : good evening jarvis 
+Jarvis : Good evening, how can I help you?
+You : and tell me how are you 
+Jarvis : I'm doing well, thanks for asking. How about you?
+You : I am fine friend, you tell me your condition, have you started eating and drinking a lot these days? 
+Jarvis : No, I haven't been eating or drinking more than usual. Why do you ask?
+You : explain lakshmi 
+Jarvis : Lakshmi is the Hindu goddess of wealth, prosperity, and fortune. She is the wife of Vishnu, one of the main deities in Hinduism. Lakshmi is also considered to be the goddess of beauty, grace, and charm.
+You : how will you be 
+Jarvis : I'll be fine, thanks for asking. How about you?
+You : I am good! 
+Jarvis : I'm glad to hear that you're doing well. Let me know if you need anything.
+You : When is the next All T20 World Cup 
+Jarvis : The next All T20 World Cup is scheduled to take place in 2021.
+You : see you later 
+Jarvis : See you later!
+You : something about thankyou machine 
+Jarvis : Thank you for your question. I'm sorry, but I don't have any information about thank you machines.
+You : tell me something about the woman 
+Jarvis : There is no one definitive answer to this question. Every woman is unique and therefore there is no single answer that applies to all women. However, some general things that can be said about women include that they are often seen as the weaker sex, they are often expected to be emotional and nurturing
+You : bro tell me about machine learning 
+Jarvis : Machine learning is a type of artificial intelligence that allows computers to learn from data and improve their performance at tasks without being explicitly programmed.
+You : Suvidha Express 
+Jarvis : The Suvidha Express is a superfast express train service that was introduced by the Indian Railways in 2005. The trains are designed to provide faster and more comfortable journey for passengers.
+You : read puri express 
+Jarvis : The Puri Express is a superfast express train that runs between the cities of Puri and Delhi in India. The train was introduced in 2005 and is one of the fastest trains in the country.
+You : Rama Rama 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : greeting 
+Jarvis : Hello, how can I help you?
+
+You : yes you are you 
+Jarvis : Yes, I am.
+You : Sai Glass Website Show 
+Jarvis : The Sai Glass website is a great resource for information on glass products and services. You can find a wide variety of glass products, including windows, doors, and more. You can also find a variety of glass services, such as installation and repair.
+You : Sai Glass Website 
+Jarvis : The Sai Glass website is a great resource for information on glass products and services. You can find a wide variety of glass products, including windows, doors, and more. You can also find a variety of glass services, such as installation and repair.
+You : Rinku Rinku 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : What is your name? 
+Jarvis : My name is Jarvis.
+You : show business set 
+Jarvis : There is no one definitive answer to this question. Every business is unique and therefore there is no single answer that applies to all businesses. However, some general things that can be said about businesses include that they require planning and effort to be successful, they need to provide a product or service that
+You : good afternoon jarvis 
+Jarvis : Good afternoon, how can I help you?
+You : tell me who is angelina jolie 
+Jarvis : Angelina Jolie is an American actress, filmmaker, and humanitarian. She has won an Academy Award, two Screen Actors Guild Awards, and three Golden Globe Awards. Jolie has also been honored with the Jean Hersholt Humanitarian Award.
+You : looks very smart 
+Jarvis : Thank you for the compliment!
+You : i didn't give you any compliment bro 
+Jarvis : I'm sorry if I misunderstood, but it sounded like you were complimenting me.
+You : can complement 
+Jarvis : Thank you for the compliment!
+You : how far is bengaluru california 
+Jarvis : I'm sorry, but I don't have that information.
+You : I am asking how much time it will take to go from Bangalore to California by flight 
+Jarvis : I'm sorry, but I don't have that information.
+You : No problem 
+Jarvis : Is there anything else you would like to know?
+You : Where is the righteous all International Space Station 
+Jarvis : The International Space Station is a spacecraft that is orbiting Earth at an altitude of about 220 miles.
+You : over which country 
+Jarvis : The International Space Station orbits Earth and does not belong to any one country.
+You : and how are you brother 
+Jarvis : I'm doing well, thanks for asking. How about you?
+You : i'm fine too i'm doing 
+Jarvis : I'm glad to hear that you're doing well too. Let me know if you need anything.
+You : reshmi calculate kar bhai 
+Jarvis : I'm sorry, but I don't understand what you're trying to say. Can you please clarify?
+You : Open the calculator 
+Jarvis : The calculator is now open.
+You : Open the calculator 
+Jarvis : The calculator is now open.
+You : how to be 
+Jarvis : There is no one definitive answer to this question. Every person is unique and therefore there is no single answer that applies to all people. However, some general things that can be said about how to be successful include setting goals, being persistent, and continuously learning and improving.
+You : how are you 
+Jarvis : I'm doing well, thanks for asking. How about you?
+You : i'm great 
+Jarvis : I'm glad to hear that you're doing great! Let me know if you need anything.
+
+You : how are you 
+Jarvis : I'm doing well, thanks for asking. How about you?
+You : i am good 
+Jarvis : I'm glad to hear that you're doing well. Let me know if you need anything.
+You : what time is it now 
+Jarvis : The current time is 7:15 PM.
+You : what is doing in twitter 
+Jarvis : I'm sorry, but I don't understand what you're trying to say. Can you please clarify?
+You : tell me yes many countries in the world are below the poverty line 
+Jarvis : There are many countries in the world that are below the poverty line. Some of these countries include Ethiopia, Haiti, and Afghanistan.
+
+You : tell me where is mount everest 
+Jarvis : Mount Everest is located in the Himalayan mountain range in Asia. It is the tallest mountain in the world, with a height of 29,029 feet.
+
+You : how are you? 
+Jarvis : I'm doing well, thanks for asking. How about you?
+You : tell me something about iron man 
+Jarvis : Iron Man is a superhero who appears in comic books published by Marvel Comics. He is one of the most popular and recognizable superheroes in the world. Iron Man was created by Stan Lee and Larry Lieber, and made his first appearance in Tales of Suspense #39 in 1963.
+You : how are you 
+Jarvis : I'm doing well, thanks for asking. How about you?
+You : but 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : tell me something about captain america and hulk 
+Jarvis : Captain America and the Hulk are two of the most popular superheroes in the world. They are both members of the Avengers, a team of superheroes who work together to protect the world from evil. Captain America is known for his bravery and his strength, while the Hulk is known for his incredible size
+You : this 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : is there any relation between machine learning and nanotechnology 
+Jarvis : There is no one definitive answer to this question. Every person is unique and therefore there is no single answer that applies to all people. However, some general things that can be said about how to be successful include setting goals, being persistent, and continuously learning and improving.
+You : tell me how to get the machine 
+Jarvis : There is no one definitive answer to this question. Every person is unique and therefore there is no single answer that applies to all people. However, some general things that can be said about how to be successful include setting goals, being persistent, and continuously learning and improving.
+You : don't understand what 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : caliph 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : who is david mere 
+Jarvis : David Mere is a Canadian professional basketball player who plays for the Toronto Raptors of the National Basketball Association (NBA).
+You : ok 
+Jarvis : You : Is there anything else you would like to know?
+You : who is the pm of england now? 
+Jarvis : The current Prime Minister of the United Kingdom is Theresa May.
+You : who is the pm of india now? 
+Jarvis : The current Prime Minister of India is Narendra Modi.
+You : mukesh yadav 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : what is the fate of the universe 
+Jarvis : There is no one definitive answer to this question. Every person is unique and therefore there is no single answer that applies to all people. However, some general things that can be said about the fate of the universe include that it will eventually end, and that there is a lot of uncertainty about
+You : what do you think 
+Jarvis : There is no one definitive answer to this question. Every person is unique and therefore there is no single answer that applies to all people. However, some general things that can be said about the fate of the universe include that it will eventually end, and that there is a lot of uncertainty about
+You : javed how long does a bike flight take from bengaluru to chennai 
+Jarvis : I'm sorry, but I don't have that information.
+You : no lost 
+Jarvis : I'm sorry if I couldn't be of more help.
+You : load it man 
+Jarvis : I'm sorry, but I don't understand what you're trying to say. Can you please clarify?
+You : what is gpdp 
+Jarvis : Gross domestic product (GDP) is a measure of the total value of all goods and services produced in a country.
+You : i asked what is gpt 
+Jarvis : I'm sorry, but I don't understand what you're trying to say. Can you please clarify?
+You : name is 
+Jarvis : My name is Jarvis.
+You : how to be 
+Jarvis : There is no one definitive answer to this question. Every person is unique and therefore there is no single answer that applies to all people. However, some general things that can be said about how to be successful include setting goals, being persistent, and continuously learning and improving.
+You : how are you jarves 
+Jarvis : I'm doing well, thanks for asking. How about you?
+You : grapes grapes 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : write application for taking framebox what use and what are the project on 
+Jarvis : I am writing to apply for the Framebox project. I have experience in using Framebox and I believe that I can contribute to the project in a meaningful way. My skills include creating and managing databases, designing user interfaces, and developing software applications. I am confident that my skills and experience will
+You : charas tell me which is the best mathematical model according to you 
+Jarvis : There is no one definitive answer to this question as the best mathematical model depends on the application. However, some of the most popular mathematical models include linear regression, logistic regression, decision trees, and support vector machines.
+You : how long will it take me to go to javed isha yoga center by train from bangalore 
+Jarvis : I'm sorry, but I don't have that information.
+You : no problem 
+Jarvis : Is there anything else you would like to know?
+You : no thank you 
+Jarvis : You're welcome. Is there anything else I can help you with?
+You : shut up 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : Who is the President of United States of America 
+Jarvis : The current President of the United States of America is Donald Trump.
+You : am am 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : See 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : I speak, check on Google and tell about blockchain technology 
+Jarvis : Blockchain technology is a type of distributed ledger technology that allows for secure, transparent, and tamper-proof transactions. Blockchain technology is often used in the context of cryptocurrencies, but it can also be used for other applications such as smart contracts, supply chain management, and more.
+You : remember you and me are friends 
+Jarvis : I remember that we are friends.
+You : Calculate and tell 15% of 100000 
+Jarvis : The answer is 15,000.
+You : Oh man, do the division of 480 lakhs brother. 
+Jarvis : The answer is 4,800,000.
+You : 75289 
+Jarvis : The answer is 7,528,900.
+You : tell that 15 divided by two 
+Jarvis : The answer is 7.5.
+You : Multiply 7.5 by 15 to find the percentage. 
+Jarvis : The answer is 112.5.
+You : Beloved 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : something about the universe 
+Jarvis : There is no one definitive answer to this question. Every person is unique and therefore there is no single answer that applies to all people. However, some general things that can be said about the universe include that it is vast and mysterious, and that there is a lot we still don't know
+You : good afternoon jave 
+Jarvis : Good afternoon, how can I help you?
+You : rope lock 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : Horse Video JA 
+Jarvis : I'm sorry, but I don't understand what you're trying to say. Can you please clarify?
+You : boss videos 
+Jarvis : I'm sorry, but I don't understand what you're trying to say. Can you please clarify?
+You : Make a video call 
+Jarvis : I'm sorry, but I don't understand what you're trying to say. Can you please clarify?
+You : let me know by playing the video 
+Jarvis : I'm sorry, but I don't understand what you're trying to say. Can you please clarify?
+You : stop typing 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : stop typing 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please clarify?
+You : lay off staff 
+Jarvis : I'm sorry to hear that you're considering laying off staff. This is a difficult decision to make, but it may be necessary in order to keep your business afloat. There are a few things you should keep in mind when making this decision, such as the financial impact of layoffs, the
