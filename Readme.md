@@ -40,6 +40,7 @@ playsound (for alarms/music)
 play rock-paper-scissors
 
 📦 Installation
+<br>
 Clone the repository:
 git clone https://github.com/Eeshansh/My_primitive_voice_assistant.git 
 <br>
