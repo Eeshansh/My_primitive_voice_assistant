@@ -43,20 +43,21 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/voice-assistant.git
-cd voice-assistant
+git clone https://github.com/Eeshansh/My_primitive_voice_assistant.git
+cd my_primitive_voice_assistant
 Install the required packages:
 
 bash
 Copy
 Edit
 pip install -r requirements.txt
-Run the assistant:
 
+Run the assistant:
 bash
 Copy
 Edit
 python main.py
+
 🎤 How It Works
 The assistant listens through your microphone.
 
@@ -73,7 +74,7 @@ Get the weather
 
 Open websites or local applications
 
-Play songs from a folder
+Play songs from on youtube
 
 Set timers or alarms
 
@@ -90,18 +91,5 @@ Get daily news or jokes
 
 “Set an alarm for 7 AM”
 
-📁 Project Structure
-css
-Copy
-Edit
-voice-assistant/
-├── main.py
-├── requirements.txt
-├── alarm/
-├── modules/
-│   ├── web.py
-│   ├── system.py
-│   └── utils.py
-└── README.md
 🙋 About the Developer
-Developed by Eeshansh, a tech enthusiast exploring AI, automation, and voice interfaces. Currently enhancing this assistant with DSA concepts and advanced features.
+Developed by Eeshansh, a tech enthusiast exploring AI, automation, and voice interfaces. Currently in process of enhancing this assistant
