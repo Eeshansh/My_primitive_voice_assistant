@@ -37,25 +37,19 @@ requests (for APIs like weather)
 
 playsound (for alarms/music)
 
+play rock-paper-scissors
+
 📦 Installation
 Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/Eeshansh/My_primitive_voice_assistant.git
+git clone https://github.com/Eeshansh/My_primitive_voice_assistant.git 
+<br>
 cd my_primitive_voice_assistant
-Install the required packages:
+<br>
+Install the required packages:<br>
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 
 Run the assistant:
-bash
-Copy
-Edit
 python main.py
 
 🎤 How It Works
